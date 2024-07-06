@@ -1,0 +1,10 @@
+
+def dizer_ola
+print ("oi fututos programadores")
+
+def dizer_ola_nomeada (nome):
+
+    print (f"oi{nome}, futuro programador)
+    
+
+    
